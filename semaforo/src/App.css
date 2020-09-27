@@ -1,0 +1,53 @@
+.semaforo{
+  margin: 0 auto;
+  background: black;
+  padding: 30px 20px;
+  width: 150px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.redlight{
+margin: auto;
+background-color: red;
+border-radius: 100%;
+width: 90px;
+height: 90px;
+margin-bottom: 10px;
+
+}
+
+.yellowlight{
+    margin: auto;
+    background-color: yellow;
+border-radius: 100%;
+width: 90px;
+height: 90px;
+margin-bottom: 10px;
+}
+
+.greenlight{
+    margin: auto;
+background-color: green;
+border-radius: 100%;
+width: 90px;
+height: 90px;
+margin-bottom: 10px;
+}
+.selected{
+ margin: auto;
+box-shadow: 0 0px 50px 20px rgb(250, 250, 34);
+border-radius: 100%;
+width: 90px;
+height: 90px;
+margin-bottom: 10px;
+
+}
+
+.palosemaforo{margin:0 auto;
+background-color: black;
+width:20px;
+height:90px;}
+
+button{border-width: 0px;
+box-shadow: 0 0 5px grey;}
